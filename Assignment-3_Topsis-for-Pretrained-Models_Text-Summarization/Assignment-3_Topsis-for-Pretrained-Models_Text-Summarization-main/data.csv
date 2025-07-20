@@ -1,0 +1,7 @@
+Model,ROUGE Score,Summary Length,Inference Time (sec)
+BART,0.81,135,7
+PEGASUS,0.84,140,11
+T5,0.79,128,9
+LongT5,0.77,150,12
+mT5,0.8,132,10
+LED,0.78,145,8
